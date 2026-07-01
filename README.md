@@ -23,7 +23,7 @@ When a hydrophobic sphere crosses an air-water interface it can entrain air, a p
 
 <p align="center">
   <em>
-    Movie 1: Oil encapsulation in the (a) dripping and (b) jetting regime for R̄ = 0.29 and Ca = 7.9 × 10⁻⁴.
+    Movie 1. Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
   </em>
 </p>
 
