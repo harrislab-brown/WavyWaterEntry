@@ -27,43 +27,43 @@ When a hydrophobic sphere crosses an air-water interface it can entrain air, a p
   <img src="Supplemental%20Movies/Movie2.gif" width="40%">
 </p>
 
-**Movie 2.** Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
+**Movie 2.** Impact of a hydrophobic sphere on a quiescent bath for varying $We$ and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
 
 <p align="center">
   <img src="Supplemental%20Movies/Movie3.gif" width="40%">
 </p>
 
-**Movie 3.** Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
+**Movie 3.** Impact of a hydrophobic sphere on a wave crest $\phi=\pi/2$ for varying $We$ with $f=9.64$ Hz, $A_d=0.1$ mm, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
 
 <p align="center">
   <img src="Supplemental%20Movies/Movie4.gif" width="40%">
 </p>
 
-**Movie 4.** Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
+**Movie 4.** Impact of a hydrophobic sphere on a wave trough $\phi=3\pi/2$ for varying $We$ with $f=9.64$ Hz, $A_d=0.1$ mm, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
 
 <p align="center">
   <img src="Supplemental%20Movies/Movie5.gif" width="40%">
 </p>
 
-**Movie 5.** Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
+**Movie 5.** Impact of a hydrophobic sphere on a wave crest $\phi=\pi/2$ for varying $f$ with $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
 
 <p align="center">
   <img src="Supplemental%20Movies/Movie6.gif" width="40%">
 </p>
 
-**Movie 6.** Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
+**Movie 6.** Impact of a hydrophobic sphere on a wave trough $\phi=3\pi/2$ for varying $f$ with $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
 
 <p align="center">
   <img src="Supplemental%20Movies/Movie7.gif" width="40%">
 </p>
 
-**Movie 7.** Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
+**Movie 7.** Impact of a hydrophobic sphere on a wave crest $\phi=\pi/2$ for varying $A_d$ with $f=9.64$ Hz, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
 
 <p align="center">
   <img src="Supplemental%20Movies/Movie8.gif" width="40%">
 </p>
 
-**Movie 8.** Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
+**Movie 8.** Impact of a hydrophobic sphere on a wave trough $\phi=3\pi/2$ for varying $A_d$ with $f=9.64$ Hz, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
 
 
 ---
