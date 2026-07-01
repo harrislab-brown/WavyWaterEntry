@@ -21,7 +21,7 @@ When a hydrophobic sphere crosses an air-water interface it can entrain air, a p
   <img src="Supplemental%20Movies/Movie1.gif" width="40%">
 </p>
 
-<p align="center"></p> *Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.*
+*Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.*
 
 
 <p align="center">
