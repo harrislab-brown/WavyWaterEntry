@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8e0b10fd-3b69-4019-b8cd-7218b9ae3350
+
 # Wave-mediated air entrainment during water entry of hydrophobic spheres
 
 This repository contains the data and supplemental movies associated with the paper:
@@ -19,13 +23,7 @@ When a hydrophobic sphere crosses an air-water interface it can entrain air, a p
 
 The supplemental movies are available [here](Supplemental%20Movies/MP4).
 
-
-
-
-https://github.com/user-attachments/assets/69b9d5c2-2d93-46c6-8ee2-660079dfbfca
-
-
-
+https://github.com/user-attachments/assets/3f04c116-701e-4bee-959d-cfa5e06f8f07
 
 
 **Movie 1.** Impact of a hydrophobic sphere on an axisymmetric wave at varying phase $\phi$ for $f=9.64$ Hz, $A_d=0.1$ mm, $We=560$, and $Bo=0.54$. The scale bar is 10 mm. Playback speed is $t\times1/2500$.
