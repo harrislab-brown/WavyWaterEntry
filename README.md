@@ -70,5 +70,16 @@ The data presented in the manuscript is available [here](Data/Data_WWE.xlsx).
 
 If you use this data, please cite our associated paper:
 
-
+```bibtex
+@article{gabbard2026Wave,
+  title={forthcoming},
+  author={forthcoming},
+  journal={forthcoming},
+  volume={},
+  issue={},
+  pages={},
+  year={2026},
+  publisher={}
+}
+```
 
