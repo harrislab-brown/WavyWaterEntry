@@ -17,6 +17,8 @@ When a hydrophobic sphere crosses an air-water interface it can entrain air, a p
 
 ## Supplemental movies 
 
+The supplemental movies can are available [here](Supplemental Movies/MP4).
+
 <p align="center">
   <img src="Supplemental%20Movies/Movie1.gif" width="40%">
 </p>
