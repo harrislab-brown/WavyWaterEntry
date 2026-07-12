@@ -6,7 +6,7 @@ This repository contains the data and supplemental movies associated with the pa
 _ Surface Waves Alter Air Entrainment During Water Entry _  
 _in prep_
 
-![Rebound](bounce.png)
+![Crest Impact](Supplemental%20Movies/OpeningImage.png)
 
 ---
 
