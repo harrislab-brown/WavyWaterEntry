@@ -3,7 +3,7 @@
 This repository contains the data and supplemental movies associated with the paper:
 
 **Gabbard _et al_., 2026**  
-_ Surface Waves Alter Air Entrainment During Water Entry _  
+_Surface Waves Alter Air Entrainment During Water Entry_  
 _in prep_
 
 ![Crest Impact](Supplemental%20Movies/OpeningImage.png)
