@@ -10,7 +10,7 @@ _in prep_
 
 ---
 
-## Overview
+## Abstract
 When a hydrophobic sphere crosses an air-water interface it can entrain a significant volume of air, a process relevant to numerous naval, industrial, and environmental settings. While air entrainment through sphere impact onto quiescent baths has been extensively studied, real-world interfaces are inherently unsteady, and the influence of surface waves is less understood. In this Letter, we systematically investigate the effect of interfacial geometry on air entrained by impacting hydrophobic spheres onto an axisymmetric wavefield. By analyzing the air cavity formed behind the impacting sphere across a wide parameter space including wave phase, driving amplitude, and frequency, we reveal that interface deformation at the location of impact can dramatically alter air entrainment and air cavity metrics. This effect is driven by a geometric modulation of the splash curtain evolution by shifting the transition criteria between cavity closure modes. We demonstrate that the influence of the wave parameters is fully described by the local wave slope at the radius of the sphere, which alongside the Weber number $We$ and Bond number $Bo$, establishes a foundational parametric framework for predicting air entrainment and air cavity metrics across highly dynamic, real-world surfaces like the open ocean.
 
 ---
