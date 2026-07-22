@@ -15,6 +15,12 @@ When a sphere crosses an air-water interface it can entrain a significant volume
 
 ---
 
+## Supplemental information
+
+The supplemental information can be downloaded [here](Supplemental%20Information/WavyWaterEntry_SupplementalInformation.pdf).
+
+---
+
 ## Supplemental movies 
 
 Full-resolution versions of the supplemental movies are available [here](Supplemental%20Movies/MP4).
