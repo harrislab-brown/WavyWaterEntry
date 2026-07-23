@@ -1,10 +1,10 @@
 # Surface Waves Alter Air Entrainment During Water Entry
 
-This repository contains the data and supplemental movies associated with the paper:
+This repository contains the supplemental information, supplemental movies, and data associated with the paper:
 
-**Gabbard _et al_., 2026**  
+**C. T. Gabbard, M. Ibrahim, J. Quinton, E. Silver, J. Belden, and D. M. Harris.**  
 _Surface Waves Alter Air Entrainment During Water Entry_  
-_under review_
+https://arxiv.org/abs/2607.20067
 
 ![Crest Impact](Supplemental%20Movies/OpeningImage.png)
 
@@ -77,15 +77,11 @@ The data presented in the manuscript is available [here](Data/Data_WWE.xlsx).
 If you use this data, please cite our associated paper:
 
 ```bibtex
-@article{gabbard2026Surface,
-  title={forthcoming},
-  author={forthcoming},
-  journal={forthcoming},
-  volume={},
-  issue={},
-  pages={},
-  year={2026},
-  publisher={}
+@article{gabbard2026wwe,
+  title   = {Surface waves alter air entrainment during water entry},
+  author  = {Gabbard, C. T. and Ibrahim, M. and Quinton, J. and Silver, E. and Belden, J. and Harris, D. M.},
+  journal = {arXiv preprint arXiv:2607.20067},
+  year    = {2026}
 }
 ```
 
