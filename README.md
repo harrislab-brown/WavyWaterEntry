@@ -1,9 +1,9 @@
-# Surface Waves Alter Air Entrainment During Water Entry
+# Water entry of small hydrophobic spheres on an axisymmetric wavefield
 
 This repository contains the supplemental information, supplemental movies, and data associated with the paper:
 
 **C. T. Gabbard, M. Ibrahim, J. Quinton, E. Silver, J. Belden, and D. M. Harris.**  
-_Surface Waves Alter Air Entrainment During Water Entry_  
+_Water entry of small hydrophobic spheres on an axisymmetric wavefieldy_  
 https://arxiv.org/abs/2607.20067
 
 ![Crest Impact](Supplemental%20Movies/OpeningImage.png)
@@ -11,7 +11,7 @@ https://arxiv.org/abs/2607.20067
 ---
 
 ## Abstract
-When a sphere crosses an air-water interface it can entrain a significant volume of air, a process relevant to numerous naval, industrial, and environmental settings. While air entrainment through sphere impact onto quiescent baths has been extensively studied, real-world interfaces are inherently unsteady, and the influence of surface waves is less understood. In this Letter, we systematically investigate the effect of interfacial geometry on the air entrained by impacting hydrophobic spheres onto an axisymmetric wavefield. By analyzing the resulting cavity across a wide parameter space, including wave phase, driving amplitude, and frequency, we reveal that local interface deformation dramatically alters air entrainment. This effect is driven by a geometric modulation of the splash curtain, which shifts the cavity closure mode transitions. We demonstrate that the influence of the waves is fully described by the local wave slope at the radius of the sphere, which alongside the Weber number $We$ and Bond number $Bo$, establishes a foundational parametric framework for predicting air entrainment and air cavity metrics across highly dynamic, real-world surfaces like the open ocean.
+When a sphere crosses an air-water interface it can entrain a significant volume of air, a process relevant to numerous naval, industrial, and environmental settings. While air entrainment through sphere impact onto quiescent interfaces has been extensively studied, real-world interfaces are inherently unsteady, and the influence of surface waves is less understood. In this work, we systematically investigate the effect of waves on air entrainment in a highly controlled setting: small hydrophobic spheres impacting an axisymmetric standing wavefield. By analyzing the resulting cavity across a wide parameter space, including wave phase, driving amplitude, and frequency, we reveal that local interface deformation dramatically alters the maximum cavity volume. This effect is driven by a geometric modulation of the splash curtain, which shifts the transition between cavity closure modes. We demonstrate that the influence of waves in our setting is well parameterized by the instantaneous interface slope evaluated at the radius of the sphere, successfully collapsing our experimental data alongside the traditional Weber and Bond numbers. 
 
 ---
 
