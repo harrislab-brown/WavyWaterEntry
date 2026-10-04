@@ -78,7 +78,7 @@ If you use this data, please cite our associated paper:
 
 ```bibtex
 @article{gabbard2026wwe,
-  title   = {Surface waves alter air entrainment during water entry},
+  title   = {Water entry of small hydrophobic spheres on an axisymmetric wavefield},
   author  = {Gabbard, C. T. and Ibrahim, M. and Quinton, J. and Silver, E. and Belden, J. and Harris, D. M.},
   journal = {arXiv preprint arXiv:2607.20067},
   year    = {2026}
