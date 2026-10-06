@@ -3,7 +3,7 @@
 This repository contains the supplemental information, supplemental movies, and data associated with the paper:
 
 **C. T. Gabbard, M. Ibrahim, J. Quinton, E. Silver, J. Belden, and D. M. Harris.**  
-_Water entry of small hydrophobic spheres on an axisymmetric wavefieldy_  
+_Water entry of small hydrophobic spheres on an axisymmetric wavefield_  
 https://arxiv.org/abs/2607.20067
 
 ![Crest Impact](Supplemental%20Movies/OpeningImage.png)
