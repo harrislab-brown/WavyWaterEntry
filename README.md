@@ -6,7 +6,7 @@ This repository contains the supplemental information, supplemental movies, and 
 _Water entry of small hydrophobic spheres on an axisymmetric wavefield_  
 https://arxiv.org/abs/2607.20067
 
-![Crest Impact](Supplemental%20Movies/OpeningImage.png)
+![Crest Impact](Supplemental%20Movies/GraphicalAbstract_WWE.jpg)
 
 ---
 
